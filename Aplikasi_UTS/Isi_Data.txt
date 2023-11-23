@@ -1,0 +1,84 @@
+Tanggal :20/02/2023
+Jam:10.00 - 11.11
+Kegiatan:mandi
+Keterangan:bersih bersih
+
+Tanggal :2900
+Jam:2132
+Kegiatan:adsadsa
+Keterangan:sadsa
+
+Tanggal :30/04/2002
+Jam:010.00 - 12.00
+Kegiatan:Rapat
+Keterangan:SMPN 2 Banjar Baru
+
+Tanggal :30/04/2002
+Jam:010.00 - 12.00
+Kegiatan:Rapat
+Keterangan:SMPN 2 Banjar Baru
+
+Nama :bima
+Tanggal:29/01/2012
+Catatan:wkwkwkwkwkkw ah ah
+
+Nama :bagus
+Tanggal:18/08/2023
+Catatan:alhamdulilah lancar
+
+Tanggal :29/04/2002
+Jam:08.00-09.00
+Kegiatan:Mengajar
+Keterangan:SDN Utara 4gs
+
+Tanggal :
+Jam:
+Kegiatan:
+Keterangan:
+
+Nama :
+Tanggal:
+Catatan:
+
+Tanggal :29/02/2002
+Jam:08.00-09.00
+Kegiatan:belajar
+Keterangan:sekolah
+
+Tanggal :29/04/2002
+Jam:08.00-09.00
+Kegiatan:berenang
+Keterangan:kolam kerang
+
+Nama :aldi
+Tanggal:29/04/2002
+Catatan:alhamdulilah masuk uniska jurusan ti
+
+Tanggal :xsaxxx
+Jam:xsaxqwqw
+Kegiatan:xasxsa
+Keterangan:axsaxaA
+
+Tanggal :dsadsad
+Jam:dasdsaad
+Kegiatan:sadsadsa
+Keterangan:sadsadas
+
+Tanggal :29/08/2023
+Jam:08.00 -09.00
+Kegiatan:belajar
+Keterangan:sekolah
+
+Nama :aldi
+Tanggal:29/04/2002
+Catatan:allhambulillah lulus uts
+
+Tanggal :29/04/2002
+Jam:09.00-11.00
+Kegiatan:mengajar
+Keterangan:kampus uniska
+
+Nama :aldianor
+Tanggal:29/04/2023
+Catatan:allhamdulilah bisa selesai uts
+
